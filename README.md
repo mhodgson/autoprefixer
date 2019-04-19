@@ -12,7 +12,7 @@ entirely):
 
 ```css
 ::placeholder {
-  color: gray;
+  color: green;
 }
 ```
 
@@ -22,16 +22,16 @@ of Autoprefixer.
 
 ```css
 ::-webkit-input-placeholder {
-  color: gray;
+  color: green;
 }
 :-ms-input-placeholder {
-  color: gray;
+  color: green;
 }
 ::-ms-input-placeholder {
-  color: gray;
+  color: green;
 }
 ::placeholder {
-  color: gray;
+  color: green;
 }
 ```
 
